@@ -1,17 +1,13 @@
-"As a [user role], I want to [do something] so that [achieve a specific goal]."
-
-By following this template, you can create user stories that are structured and easy to understand. To make the user story even more effective, you can add acceptance criteria that specify the requirements that must be met to consider the user story complete. Here's an example of a user story with acceptance criteria:
-
-"As a customer, I want to view my order history so that I can track my past purchases."
+As a client, I desire a website that is created using Agile approach in order to assure effective teamwork and high quality product.
 
 Acceptance Criteria:
+1. The website must meet all of the customer's requirements and specifications.
+2. The website must be delivered on time and within budget.
+3. The development team must collaborate effectively throughout the development process.
+4. The website must be tested thoroughly to ensure high quality and functionality.
+5. The development team must provide regular updates and progress reports to the customer.
+6. The customer must be satisfied with the final product and the development process.
 
-The order history page displays a list of all past orders, including the date, order number, and total cost.
-Each order in the list is clickable and leads to a detailed view of the order.
-The detailed view of the order includes the list of items purchased, the quantities, the prices, and any discounts applied.
-The order history page can be accessed from the customer account dashboard.
-The order history page is only accessible to authenticated customers.
 
-
-# List Stories related to this theme
-1. [Stories 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+# List Tasks related to this theme
+1. [Task 2: Conduct sprint review ](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)

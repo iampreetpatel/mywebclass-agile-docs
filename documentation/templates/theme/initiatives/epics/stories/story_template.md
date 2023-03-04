@@ -1,17 +1,16 @@
-"As a [user role], I want to [do something] so that [achieve a specific goal]."
-
-By following this template, you can create user stories that are structured and easy to understand. To make the user story even more effective, you can add acceptance criteria that specify the requirements that must be met to consider the user story complete. Here's an example of a user story with acceptance criteria:
-
-"As a customer, I want to view my order history so that I can track my past purchases."
+As a student, I want website to be easily accessible and easy to use it.I want to be able to search and filter courses by topic, so that I can find the courses that are relevant to my needs and interests.
 
 Acceptance Criteria:
+1. The website is designed to be optimized for desktop, tablet, and mobile devices.
+2. A responsive framework is used to ensure that the website layout adjusts based on the device being used.
+3. The website is compatible with major web browsers such as Google Chrome, Safari, Firefox, and Microsoft Edge.
+4. The navigation system is easy to use and intuitive for all users.
+5. The content is optimized to ensure that it is readable and easy to understand across all devices.
+6. The website is optimized to ensure fast load times across all devices.
 
-The order history page displays a list of all past orders, including the date, order number, and total cost.
-Each order in the list is clickable and leads to a detailed view of the order.
-The detailed view of the order includes the list of items purchased, the quantities, the prices, and any discounts applied.
-The order history page can be accessed from the customer account dashboard.
-The order history page is only accessible to authenticated customers.
 
 
-# List Stories related to this theme
-1. [Stories 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+
+
+# List Tasks related to this theme
+1. [Task 1: Creating simple and basic website functionality](https://github.com/iampreetpatel/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
