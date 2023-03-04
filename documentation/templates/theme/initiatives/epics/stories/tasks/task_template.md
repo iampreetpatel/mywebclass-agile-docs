@@ -1,15 +1,18 @@
-Task Title: [Short, descriptive title for the task]
+Task Title: Creating basic website functionality.
 
-User Story: [Reference the user story that this task supports]
+User Story: [User story](https://github.com/iampreetpatel/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/story_template.md)
 
-Description: [Describe the task in more detail. What needs to be done? What are the acceptance criteria? What are the dependencies?]
+Description: Ensure that the website is responsive and optimized for viewing on a variety of devices, including desktops, tablets, and mobile phones.
 
-Effort Estimate: [Provide an estimate of the time required to complete the task, usually in hours or points]
+Effort Estimate:  3-4 weeks
 
-Assigned To: [Assign the task to a team member who will be responsible for completing it]
+Assigned To:  
+1. Web Developer
+2. Web designer
+3. Quality tester
 
-Priority: [Indicate the relative priority of this task compared to other tasks in the sprint]
+Priority: High
 
-Status: [Track the status of the task, such as "not started", "in progress", "blocked", or "completed"]
+Status: Not started
 
-Notes: [Include]
+Notes: The website should be designed with mobile users in mind, with a layout and design that adjusts to fit different screen sizes and resolutions.
