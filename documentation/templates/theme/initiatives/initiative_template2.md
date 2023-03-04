@@ -27,7 +27,7 @@ Deliverables:
 Milestones:
 1. Testing the website - 1 week.
 2. Planning and designing the website - 2 weeks.
-3. Developing the website using Agile methodology and CI/CD principles - 8 weeks.
+3. Developing the website using Agile methodology and CI/CD pipeline - 8 weeks.
 
 Constraints: 
 1. Limited budget and resources.
