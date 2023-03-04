@@ -10,6 +10,7 @@ Assigned To:
 1. Web Developer
 2. Web designer
 3. Quality tester
+4. Project Manager
 
 Priority: High
 
