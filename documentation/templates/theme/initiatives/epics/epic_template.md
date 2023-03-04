@@ -25,4 +25,4 @@ Business Value: The website developed through this epic will have high business 
 Priority: High
 
 # List stories related to this theme
-1. [Story 1: ](https://github.com/iampreetpatel/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/story_template.md)
+1. [Story 1: Responsive website development](https://github.com/iampreetpatel/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/story_template.md)
