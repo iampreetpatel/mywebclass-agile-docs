@@ -53,4 +53,4 @@ Team:
 
 
 # List epics related to this theme
-1. [Epic 2: Agile methodology development](documentation/templates/theme/initiatives/epics/epic_template.md)
+1. [Epic 2: Agile methodology development](https://github.com/iampreetpatel/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/epic_template2.md)

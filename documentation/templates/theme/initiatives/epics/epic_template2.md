@@ -1,20 +1,30 @@
-"Title of the Epic"
+Agile methodology website development.
 
-Description: [A brief description of the epic]
+Description: This epic involves implementing Agile methodology in the website development process. This includes creating a roadmap for development, establishing iterative development cycles, and implementing continuous improvement processes.
 
-Goals: [List the high-level goals or objectives of the epic]
+Goals: 
+1. To ensure that the website development process is efficient and effective.
+2. The website will be developed using Agile methodology, which will ensure continuous integration, testing, and delivery.
 
-User Stories: [List the user stories that will help achieve the goals of the epic]
+User Stories: 
+1. As a developer, I want to implement continuous improvement processes in the development process.
+2. As a project manager, I want to create a roadmap for development and establish iterative development cycles.
+3. As a user, I want the website to be visually appealing and consistent in design
+4. As a user, I want to be able to easily navigate the website and find the information I need.
+5. As a user, I want the website to load quickly and be responsive on various devices.
 
-Dependencies: [List any dependencies that may impact the epic]
+Dependencies: 
+1. Availability of resources and tools for implementing Agile methodology.
 
-Risks: [List the potential risks and mitigation strategies]
+Risks: 
+1. Limited availability of resources.
+2. Technical issues that may arise during development.
 
-Estimated Effort: [Estimate the effort required to complete the epic]
+Estimated Effort: 8-12 weeks
 
-Business Value: [Specify the business value that will be delivered by the epic]
+Business Value: High
 
-Priority: [Assign a priority to the epic]
+Priority: High
 
 # List stories related to this theme
-1. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)
+1. [Story 2: ](https://github.com/iampreetpatel/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/story_template.md)
