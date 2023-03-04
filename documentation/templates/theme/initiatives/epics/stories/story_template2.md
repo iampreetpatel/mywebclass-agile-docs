@@ -10,4 +10,4 @@ Acceptance Criteria:
 
 
 # List Tasks related to this theme
-1. [Task 2: Conduct sprint review ](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+1. [Task 2: Conduct sprint review ](https://github.com/iampreetpatel/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/tasks/task_template2.md)

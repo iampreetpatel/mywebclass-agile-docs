@@ -1,15 +1,17 @@
-Task Title: [Short, descriptive title for the task]
+Task Title: Conduct sprint review.
 
-User Story: [Reference the user story that this task supports]
+User Story: [User story](https://github.com/iampreetpatel/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/story_template2.md)
 
-Description: [Describe the task in more detail. What needs to be done? What are the acceptance criteria? What are the dependencies?]
+Description: Review progress made during the current sprint, including completed tasks, ongoing work, and any issues or challenges that need to be addressed.
 
-Effort Estimate: [Provide an estimate of the time required to complete the task, usually in hours or points]
+Effort Estimate: 2 hours
 
-Assigned To: [Assign the task to a team member who will be responsible for completing it]
+Assigned To: 
+1. Scrum Master 
+2. Project manager.
 
-Priority: [Indicate the relative priority of this task compared to other tasks in the sprint]
+Priority: High
 
-Status: [Track the status of the task, such as "not started", "in progress", "blocked", or "completed"]
+Status: Not started
 
-Notes: [Include]
+Notes: The sprint review is an important opportunity to evaluate progress, identify potential roadblocks, and make adjustments to the project plan as needed.
