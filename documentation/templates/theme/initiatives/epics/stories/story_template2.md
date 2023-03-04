@@ -1,3 +1,5 @@
+As a Web developer,I want to use Agile methodologies to efficiently and collaboratively develop a website that meets the customer's requirements.
+
 As a client, I desire a website that is created using Agile approach in order to assure effective teamwork and high quality product.
 
 Acceptance Criteria:
