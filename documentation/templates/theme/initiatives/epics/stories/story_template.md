@@ -1,3 +1,5 @@
+As a Web developer, I want to build a website so that I can reach to every student who is in need of education.
+
 As a student, I want website to be easily accessible and easy to use it.I want to be able to search and filter courses by topic, so that I can find the courses that are relevant to my needs and interests.
 
 Acceptance Criteria:
