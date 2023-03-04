@@ -4,7 +4,7 @@ User Story: [User story](https://github.com/iampreetpatel/mywebclass-agile-docs/
 
 Description: Review progress made during the current sprint, including completed tasks, ongoing work, and any issues or challenges that need to be addressed.
 
-Effort Estimate: 2 hours
+Effort Estimate: 6-8 hours
 
 Assigned To: 
 1. Scrum Master 
