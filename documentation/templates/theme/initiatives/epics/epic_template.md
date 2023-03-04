@@ -1,20 +1,28 @@
-"Title of the Epic"
+Website design and development.
 
-Description: [A brief description of the epic]
+Description: This epic involves designing and developing a website from scratch. This includes creating a design layout, developing website functionality, and integrating with necessary systems.
 
-Goals: [List the high-level goals or objectives of the epic]
+Goals: 
+1. To ensure that the website is functional and easy to use
+2. Improve the navigation and search functionality to make it easier to find and filter courses.
 
-User Stories: [List the user stories that will help achieve the goals of the epic]
+User Stories: 
+1. As a web developer, I want to develop website functionality that is easy to use and meets user needs.
+2. As a web designer, I want to create a design layout that reflects the brand image and meets user needs.
+              
 
-Dependencies: [List any dependencies that may impact the epic]
+Dependencies: 
+1. Availability of web design and development resources.
 
-Risks: [List the potential risks and mitigation strategies]
+Risks: 
+1. Technical issues during development.
+2. The new design and functionality may not be quickly adopted by users.
 
-Estimated Effort: [Estimate the effort required to complete the epic]
+Estimated Effort: 12-20 weeks
 
-Business Value: [Specify the business value that will be delivered by the epic]
+Business Value: The website developed through this epic will have high business value as it will meet user requirements,and provide a return on investment.
 
-Priority: [Assign a priority to the epic]
+Priority: High
 
 # List stories related to this theme
-1. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)
+1. [Story 1: ](https://github.com/iampreetpatel/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/story_template.md)
