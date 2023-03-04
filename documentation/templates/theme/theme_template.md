@@ -1,7 +1,6 @@
-"As a [user role], I want to [user story] so that [benefit]. By [action], we can [project objective]. This will enable us to [project outcome]. By following [methodology/principles], we can quickly and effectively [project deliverables], setting us up for [long-term benefit]."
-
-You can fill in the placeholders with your own information to create a complete agile theme that outlines your project objectives, outcomes, and deliverables.
-
+As a educator, The goals of the website I'm building to provide a website covering all the engineering field tutorials.Our website features a simple and streamlined design that makes it easy to navigate and find the right tutorials for your needs. We prioritize speed and efficiency, with fast loading times and minimal distractions.We use agile principles to iterate on our tutorial offerings and respond to user feedback. We're constantly testing and experimenting with new tutorials and features.  This will enable us to provide high-quality education and enhance the learning experience for our users. We use lean principles to streamline the platform and reduce friction, making it easy and intuitive to use.We believe in making learning accessible to everyone, which is why our 
+tutorials are available anytime, anywhere. We use agile principles to optimize the mobile experience, ensuring that our tutorials are easy to access and navigate on any device. My website makes it easy  to learn new skills and expand your horizons. We can quickly and effectively create a range of courses that meet the needs of our users, setting us up for long-term success.
 
 # List initiatives related to this theme
-1. [Initiative](documentation/templates/theme/initiatives/initiative_template.md)
+1. [Initiative 1:  Creating initial basic website](https://github.com/iampreetpatel/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/initiative_template.md)
+2. [Initiative 2:  Developing website using agile methodology] ()
