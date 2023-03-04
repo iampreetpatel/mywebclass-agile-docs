@@ -3,4 +3,4 @@ tutorials are available anytime, anywhere. We use agile principles to optimize t
 
 # List initiatives related to this theme
 1. [Initiative 1:  Creating initial basic website](https://github.com/iampreetpatel/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/initiative_template.md)
-2. [Initiative 2:  Developing website using agile methodology] ()
+2. [Initiative 2: Developing website using agile methodology](https://github.com/iampreetpatel/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/initiative_template2.md)
